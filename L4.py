@@ -1,5 +1,6 @@
 # Base para la solución del Laboratorio 4
 #aqui se hizo un cambio
+#blablabla
 # Los parámetros T, t_final y N son elegidos arbitrariamente
 
 import numpy as np
