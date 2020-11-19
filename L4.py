@@ -19,7 +19,7 @@ t_final = 10	# tiempo en segundos
 t = np.linspace(0, t_final, T)
 
 # Inicialización del proceso aleatorio W(t) con N realizaciones
-N = 90
+N = 30
 W_t = np.empty((N, len(t)))	# N funciones del tiempo x(t) con T puntos
 
 # Creación de las muestras del proceso W(t) (X y Y independientes)
